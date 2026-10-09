@@ -1,7 +1,12 @@
 {
  "v": 1,
- "seq": 1,
- "issued_at": "2026-10-09T01:31:52Z",
- "blocked": {},
- "sig": "BxgcGaHg94U8GbvJaTI1yRpKQErDbDZUlMdyoI5s8rHfDv4saENYCLGwiKvjLJS+wnJjyXdQQkHMFbS3ol5oDg=="
+ "seq": 2,
+ "issued_at": "2026-10-09T01:58:05Z",
+ "blocked": {
+  "532d5d03-2431-446d-b6a3-bf6a4175fb70": {
+   "state": "suspended",
+   "reason": "ada ya leseni haijalipwa"
+  }
+ },
+ "sig": "l84XRiTunPTyvsCs4+Yxl2/usz+kgb1DGiV58jkKV0yDWs6Q274eXXa3haXH5JThPWmscI6jfe+svYeOV7GIDQ=="
 }
